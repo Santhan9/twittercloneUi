@@ -1,0 +1,8 @@
+.heading{
+    font-family: cursive;
+}
+
+.header{
+    display: flex;
+    background-color: rgb(60, 60, 201);
+}
